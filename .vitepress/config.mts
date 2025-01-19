@@ -5,6 +5,10 @@ export default defineConfig({
   description: 'Comprehensive guidance for Pedro Pathing in your projects',
 base: '/Documentation/',
   themeConfig: {
+editLink: {
+      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
