@@ -46,13 +46,3 @@ You can reach us at:
 - Aarsh - Mentor [(GitHub)](https://github.com/randomSmarts) [(Discord)](https://discord.com/users/748927855219703959)
 
 ---
-
-We value community contributions to improve Pedro Pathing. If you have ideas, encounter issues, or wish to enhance this project, we encourage you to contribute:
-
-1.	Click the Edit button at the top-right of the page.
-2.	Submit an issue detailing your suggestion or problem.
-3.	Ensure your issue is thoroughly described, so we can address it effectively.
-
-Our team will review your input and get back to you as quickly as possible.
-
----
