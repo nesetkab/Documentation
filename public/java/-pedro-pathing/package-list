@@ -13,11 +13,9 @@ $dokka.location:com.pedropathing.follower/Follower/Follower/#com.qualcomm.robotc
 $dokka.location:com.pedropathing.follower/Follower/atParametricEnd/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/at-parametric-end.html
 $dokka.location:com.pedropathing.follower/Follower/breakFollowing/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/break-following.html
 $dokka.location:com.pedropathing.follower/Follower/calculateAveragedVelocityAndAcceleration/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/calculate-averaged-velocity-and-acceleration.html
-$dokka.location:com.pedropathing.follower/Follower/drawOnDashBoard/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/draw-on-dash-board.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.Path#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.Path/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
-$dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain#double#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/getAcceleration/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/get-acceleration.html
 $dokka.location:com.pedropathing.follower/Follower/getCentripetalForceCorrection/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/get-centripetal-force-correction.html
@@ -46,7 +44,6 @@ $dokka.location:com.pedropathing.follower/Follower/holdPoint/#com.pedropathing.p
 $dokka.location:com.pedropathing.follower/Follower/initialize/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/initialize.html
 $dokka.location:com.pedropathing.follower/Follower/initialize/#com.pedropathing.localization.Localizer/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/initialize.html
 $dokka.location:com.pedropathing.follower/Follower/isBusy/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/is-busy.html
-$dokka.location:com.pedropathing.follower/Follower/isRobotStuck/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/is-robot-stuck.html
 $dokka.location:com.pedropathing.follower/Follower/pathBuilder/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/path-builder.html
 $dokka.location:com.pedropathing.follower/Follower/resetOffset/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/reset-offset.html
 $dokka.location:com.pedropathing.follower/Follower/setCurrentPoseWithOffset/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/set-current-pose-with-offset.html
