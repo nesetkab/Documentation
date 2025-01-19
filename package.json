@@ -2,11 +2,12 @@
   "name": "vitepress-project",
   "version": "1.0.0",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview --port 8080"
   },
   "keywords": [],
   "author": "",
