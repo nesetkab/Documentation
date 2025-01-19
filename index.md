@@ -7,8 +7,8 @@ hero:
   text: "FTC Path Follower"
   tagline: "Get started quickly with Localization, Tuners, and Autonomous OpModes!"
   image:
-        dark: ./public/images/pedropathinglogo-darkmode.png
-        light: ./public/images/pedropathinglogo-lightmode.png
+        dark: /public/images/pedropathinglogo-darkmode.png
+        light: /public/images/pedropathinglogo-lightmode.png
         alt: Pedro Logo
   actions:
     - theme: brand
