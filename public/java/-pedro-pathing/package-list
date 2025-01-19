@@ -1,9 +1,5 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
-$dokka.location:com.acmerobotics.roadrunner.ftc////PointingToDeclaration/-pedro-pathing/com.acmerobotics.roadrunner.ftc/index.html
-$dokka.location:com.acmerobotics.roadrunner.ftc/SparkFunOTOSCorrected///PointingToDeclaration/-pedro-pathing/com.acmerobotics.roadrunner.ftc/-spark-fun-o-t-o-s-corrected/index.html
-$dokka.location:com.acmerobotics.roadrunner.ftc/SparkFunOTOSCorrected/SparkFunOTOSCorrected/#com.qualcomm.robotcore.hardware.I2cDeviceSynch/PointingToDeclaration/-pedro-pathing/com.acmerobotics.roadrunner.ftc/-spark-fun-o-t-o-s-corrected/-spark-fun-o-t-o-s-corrected.html
-$dokka.location:com.acmerobotics.roadrunner.ftc/SparkFunOTOSCorrected/getPosVel/#com.qualcomm.hardware.sparkfun.SparkFunOTOS.Pose2D#com.qualcomm.hardware.sparkfun.SparkFunOTOS.Pose2D/PointingToDeclaration/-pedro-pathing/com.acmerobotics.roadrunner.ftc/-spark-fun-o-t-o-s-corrected/get-pos-vel.html
 $dokka.location:com.pedropathing.follower////PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/index.html
 $dokka.location:com.pedropathing.follower/DriveVectorScaler///PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-drive-vector-scaler/index.html
 $dokka.location:com.pedropathing.follower/DriveVectorScaler/DriveVectorScaler/#com.pedropathing.pathgen.Vector/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-drive-vector-scaler/-drive-vector-scaler.html
@@ -631,7 +627,6 @@ $dokka.location:com.pedropathing.util/Timer/Timer/#/PointingToDeclaration/-pedr
 $dokka.location:com.pedropathing.util/Timer/getElapsedTime/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.util/-timer/get-elapsed-time.html
 $dokka.location:com.pedropathing.util/Timer/getElapsedTimeSeconds/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.util/-timer/get-elapsed-time-seconds.html
 $dokka.location:com.pedropathing.util/Timer/resetTimer/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.util/-timer/reset-timer.html
-com.acmerobotics.roadrunner.ftc
 com.pedropathing.follower
 com.pedropathing.localization
 com.pedropathing.localization.constants
