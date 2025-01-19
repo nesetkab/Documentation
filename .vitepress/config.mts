@@ -1,14 +1,15 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  title: 'Pedro Pathing Documentation',
+  title: 'Pedro Pathing',
   description: 'Comprehensive guidance for Pedro Pathing in your projects',
 base: '/Documentation/',
   themeConfig: {
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
-            {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"}
+            {text: "JavaDoc", link:"/reference",
+            {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
         ],
     sidebar: [
       {
