@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Pedro Pathing Documentation',
   description: 'Comprehensive guidance for Pedro Pathing in your projects',
+base: '/Documentation/'
   themeConfig: {
 nav: [
             {text: "Home", link: "/"},
