@@ -19,7 +19,7 @@ nav: [
         ],
     sidebar: [
       {
-        text: 'Overview',
+        text: 'Setup',
         items: [
           { text: 'Overview', link: '/overview' },
           { text: 'Prerequisites', link: '/prerequisites' },
