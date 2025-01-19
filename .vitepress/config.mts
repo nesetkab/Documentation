@@ -7,7 +7,7 @@ base: '/Documentation/',
 lastUpdated: true,
   themeConfig: {
 editLink: {
-      pattern: 'https://github.com/BaronClaps/Documentation/edit/:path',
+      pattern: 'https://github.com/BaronClaps/Documentation/edit/master/:path',
       text: 'Edit this page on GitHub'
     },
 nav: [
