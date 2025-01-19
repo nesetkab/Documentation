@@ -4,9 +4,10 @@ export default defineConfig({
   title: 'Pedro Pathing',
   description: 'Comprehensive guidance for Pedro Pathing in your projects',
 base: '/Documentation/',
+lastUpdated: true,
   themeConfig: {
 editLink: {
-      pattern: 'https://github.com/baronclaps/Documentation/edit:path',
+      pattern: 'https://github.com/BaronClaps/Documentation/edit/:path',
       text: 'Edit this page on GitHub'
     },
 nav: [
