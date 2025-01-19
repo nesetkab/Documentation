@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Pedro Pathing"
   text: "FTC Path Follower"
-  tagline: "Get started quickly with Localization, Tuners, and Autonomous OpModes!"
+  tagline: "Maximize control over your robot!"
   image:
         dark: /public/images/pedropathinglogo-darkmode.png
         light: /public/images/pedropathinglogo-lightmode.png
