@@ -6,7 +6,7 @@ export default defineConfig({
 base: '/Documentation/',
   themeConfig: {
 editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/baronclaps/Documentation/edit:path',
       text: 'Edit this page on GitHub'
     },
 nav: [
