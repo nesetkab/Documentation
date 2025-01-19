@@ -3,17 +3,17 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Pedro Pathing',
   description: 'Comprehensive guidance for Pedro Pathing in your projects',
-base: '/Documentation/',
+base: '/',
 lastUpdated: true,
   themeConfig: {
 editLink: {
-      pattern: 'https://github.com/BaronClaps/Documentation/edit/master/:path',
+      pattern: 'https://github.com/Pedro-Pathing/Documentation/edit/master/:path',
       text: 'Edit this page on GitHub'
     },
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
-            {text: "JavaDoc", link:"https://baronclaps.github.io/Documentation/reference/index.html"},
+            {text: "JavaDoc", link:"https://pedropathing.com/reference/index.html"},
             {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
         ],
     sidebar: [
