@@ -8,7 +8,7 @@ base: '/Documentation/',
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
-            {text: "JavaDoc", link:"/reference"},
+            {text: "JavaDoc", link:"/reference/index"},
             {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
         ],
     sidebar: [
