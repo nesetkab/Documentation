@@ -14,7 +14,7 @@ editLink: {
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
-            {text: "JavaDoc", link:"https://pedropathing.com/reference/index.html"},
+            {text: "JavaDoc", link:"https://pedropathing.com/java/index.html"},
             {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
         ],
     sidebar: [
