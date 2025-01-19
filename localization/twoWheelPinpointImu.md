@@ -4,7 +4,7 @@
 * A GoBilda Pinpoint Odometry Computer with ONLY an i2c cord to the `i2c` port. We will not use the `x` or `y` ports.
 * Two odometry wheels connected to motor encoder ports on a hub.
 
----
+
 ## Steps
 ### 1. Odometry Wheel Setup
 Open the file `TwoWheelPinpointIMULocalizer.java` and configure the following:
@@ -44,7 +44,7 @@ Ensure the following:
 
 4. (Optional) Run multiple tests and average the multipliers for better accuracy.
 
----
+
 
 ## Testing Your Localizer
 
@@ -55,6 +55,6 @@ After completing the tuning steps, test the localizer as follows:
 3. Switch the view to "field view" from the top-right corner dropdown.
 4. Observe if the robot's movements appear accurate on the dashboard. Re-run tuning if necessary.
 
----
+
 
 ## Congratulations on successfully tuning your localizer!

@@ -4,7 +4,7 @@
 * Pinpoint module connected to an I2C port.
 * Dead wheel encoder wires properly connected to the Pinpoint module.
 
----
+
 
 ## Default Values
 These are the default values of the PinpointConstants. You can copy and paste this into your `static{}` block within `LConstants`:
@@ -22,7 +22,7 @@ These are the default values of the PinpointConstants. You can copy and paste th
     PinpointConstants.strafeEncoderDirection = GoBildaPinpointDriver.EncoderDirection.FORWARD;
 ```
 
----
+
 
 ## Steps
 
@@ -55,7 +55,7 @@ Navigate to the file `LConstants` and into the `static{}` block and configure th
 
 Run the `SensorGoBildaPinpointExample.java` file located in the `tuners` folder. This will ensure the Pinpoint is correctly connected and operational.
 
----
+
 
 ## Testing Your Localizer
 
@@ -71,6 +71,6 @@ After completing the tuning steps, you can test your localizer's accuracy.
 
 5. Observe the movements, moving the robot forward should make `x` increase and strafing left should make `y` increase.
 
----
+
 
 ## Congratulations on successfully setting up your localizer!

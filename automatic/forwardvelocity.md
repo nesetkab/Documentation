@@ -4,7 +4,7 @@
 
 The **Forward Velocity Tuner** determines the velocity of your robot when moving forward at full power. This value is used for accurate path-following calculations in Pedro Pathing.
 
----
+
 
 ## Setup and Instructions
 
@@ -12,14 +12,14 @@ The **Forward Velocity Tuner** determines the velocity of your robot when moving
 2. Ensure your robot has enough space to drive **40 inches** forward. You can adjust this distance in the FTC Dashboard under the `ForwardVelocityTuner` dropdown, but larger distances yield better results.
 3. Run the OpMode.
 
----
+
 
 ## Output
 
 * **Velocity**: After the robot has completed the distance, the final velocity will be displayed in telemetry.
 * Note: The robot may drift slightly after completing the movement. Ensure the testing area has adequate space.
 
----
+
 
 ## Inputting the Results
 

@@ -4,7 +4,7 @@
 * A properly configured Road Runner localizer.
 * Required dependencies added to your project.
 
----
+
 
 ## Steps
 ### 1. Enable the Road Runner to Pedro Adapter
@@ -33,7 +33,7 @@ If needed, adjust parameters in the RRToPedroThreeWheelLocalizer.java file to ma
 Ensure encoder positions and wheel radii are accurate.
 Verify that all encoder directions and IMU orientations align with your robot's physical setup.
 
----
+
 ## Testing Your Localizer
 
 After completing the setup:
@@ -43,6 +43,6 @@ After completing the setup:
 3. Switch the view to "field view" from the top-right corner dropdown.
 4. Observe if the robot's movements appear accurate on the dashboard. Re-run the setup if necessary.
 
----
+
 
 ## Congratulations on successfully setting up your localizer!

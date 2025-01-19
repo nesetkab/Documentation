@@ -3,7 +3,7 @@
 ## Prerequisites
 * Encoders attached to all drive motors.
 
----
+
 
 ## Default Values
 These are the default values of the DriveEncoderConstants. You can copy and paste this into your `static{}` block within `LConstants`:
@@ -21,7 +21,7 @@ DriveEncoderConstants.leftRearEncoderDirection = Encoder.REVERSE;
 DriveEncoderConstants.rightRearEncoderDirection = Encoder.FORWARD;
 ```
 
----
+
 
 ## Steps 
 ### 1. Encoder Setup
@@ -88,7 +88,7 @@ We need to adjust multipliers that convert encoder ticks into real-world measure
 4. (Optional) Run multiple tests and average the multipliers for better accuracy.
 5. Input this value in `LConstants` as `DriveEncoderConstants.turnTicksToInches = [multiplier]`, where `[multiplier]` is the value you obtained from the tuner.
 
----
+
 
 ## Testing Your Localizer
 
@@ -104,6 +104,6 @@ After completing the tuning steps, you can test your localizer's accuracy.
 
 5. Observe the movements, moving the robot forward should make `x` increase and strafing left should make `y` increase.
 
---- 
+ 
 
 ## Congratulations on successfully tuning your localizer!

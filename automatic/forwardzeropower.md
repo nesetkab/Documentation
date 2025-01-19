@@ -4,7 +4,7 @@
 
 The **Forward Zero Power Acceleration Tuner** measures how your robot decelerates when moving forward and power is cut from the drivetrain. This value is critical for improving motion accuracy in Pedro Pathing.
 
----
+
 
 ## Setup and Instructions
 
@@ -12,14 +12,14 @@ The **Forward Zero Power Acceleration Tuner** measures how your robot decelerate
 2. Ensure your robot has enough space to accelerate to **30 inches/second** forward. You can adjust this velocity in the FTC Dashboard under the `ForwardZeroPowerAccelerationTuner` dropdown.
 3. Run the OpMode.
 
----
+
 
 ## Output
 
 * **Deceleration**: After the robot reaches the target velocity and power is cut, telemetry will display the robot’s deceleration rate.
 * Ensure the robot drifts to a complete stop for accurate measurements.
 
----
+
 
 ## Inputting the Results
 

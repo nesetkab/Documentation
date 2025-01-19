@@ -35,10 +35,8 @@ nav: [
         text: 'Automatic Tuners',
         items: [
           { text: 'Prerequisites', link: '/automatic/prerequisites' },
-          { text: 'Velocity Tuners', link: '/automatic/velocitytuners' },
           { text: 'Forward Velocity', link: '/automatic/forwardvelocity' },
           { text: 'Strafe Velocity', link: '/automatic/strafevelocity' },
-          { text: 'Zero Power Tuners', link: '/automatic/zeropowertuners' },
           { text: 'Forward Zero Power', link: '/automatic/forwardzeropower' },
           { text: 'Lateral Zero Power', link: '/automatic/lateralzeropower' },
         ],

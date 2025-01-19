@@ -4,7 +4,7 @@
 * Three odometry wheels connected to motor encoder ports on a hub.
 * A properly configured IMU.
 
----
+
 
 ## Default Values
 These are the default values of the ThreeWheelIMUConstants. You can copy and paste this into your `static{}` block within `LConstants`:
@@ -25,7 +25,7 @@ ThreeWheelIMUConstants.IMU_HardwareMapName = "imu";
 ThreeWheelIMUConstants.IMU_Orientation = new RevHubOrientationOnRobot(RevHubOrientationOnRobot.LogoFacingDirection.UP, RevHubOrientationOnRobot.UsbFacingDirection.LEFT);
 ```
 
----
+
 
 ## Steps
 ### 1. Odometry Wheel Setup
@@ -98,7 +98,7 @@ We need to adjust multipliers that convert encoder ticks into real-world measure
 4. (Optional) Run multiple tests and average the multipliers for better accuracy.
 5. Input this value in `LConstants` as `ThreeWheelIMUConstants.turnTicksToInches = [multiplier]`, where `[multiplier]` is the value you obtained from the tuner.
 
----
+
 
 ## Testing Your Localizer
 
@@ -114,7 +114,7 @@ After completing the tuning steps, you can test your localizer's accuracy.
 
 5. Observe the movements, moving the robot forward should make `x` increase and strafing left should make `y` increase.
 
----
+
 
 ## Note on ESD
 
@@ -129,7 +129,7 @@ Consider grounding the robot with a [grounding strap](https://www.revrobotics.co
 
 If after all of this you cannot fix the issue, [switch to the non-IMU ThreeWheel localizer](https://pedropathing.com/localization/threeWheel.html), as it will not be as harshly affected by ESD and have more accuracy (compared to an interfered IMU).
 
----
+
 
 ## Congratulations on successfully tuning your localizer!
 

@@ -4,7 +4,7 @@
 
 The **Strafe Velocity Tuner** determines the velocity of your robot when strafing (moving sideways) at full power. This value is essential for accurate path-following in Pedro Pathing.
 
----
+
 
 ## Setup and Instructions
 
@@ -12,14 +12,14 @@ The **Strafe Velocity Tuner** determines the velocity of your robot when strafin
 2. Ensure your robot has enough space to strafe **40 inches** to the right. You can adjust this distance in the FTC Dashboard under the `StrafeVelocityTuner` dropdown, but larger distances yield better results.
 3. Run the OpMode.
 
----
+
 
 ## Output
 
 * **Velocity**: After the robot has completed the distance, the final velocity will be displayed in telemetry.
 * Note: The robot may drift slightly after completing the movement. Ensure the testing area has adequate space.
 
----
+
 
 ## Inputting the Results
 

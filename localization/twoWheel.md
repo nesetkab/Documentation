@@ -4,7 +4,7 @@
 * Two odometry wheels connected to motor encoder ports on a hub.
 * A properly configured IMU.
 
----
+
 
 ## Default Values
 These are the default values of the TwoWheelConstants. You can copy and paste this into your `static{}` block within `LConstants`:
@@ -21,7 +21,7 @@ TwoWheelConstants.IMU_HardwareMapName = "imu";
 TwoWheelConstants.IMU_Orientation = new RevHubOrientationOnRobot(RevHubOrientationOnRobot.LogoFacingDirection.UP, RevHubOrientationOnRobot.UsbFacingDirection.LEFT);
 ```
 
----
+
 
 ## Steps
 ### 1. Odometry Wheel Setup
@@ -78,7 +78,7 @@ We need to adjust multipliers that convert encoder ticks into real-world measure
 4. (Optional) Run multiple tests and average the multipliers for better accuracy.
 5. Input this value in `LConstants` as `TwoWheelConstants.strafeTicksToInches = [multiplier]`, where `[multiplier]` is the value you obtained from the tuner.
 
----
+
 
 ## Testing Your Localizer
 
@@ -94,7 +94,7 @@ After completing the tuning steps, you can test your localizer's accuracy.
 
 5. Observe the movements, moving the robot forward should make `x` increase and strafing left should make `y` increase.
 
----
+
 
 ## Congratulations on successfully tuning your localizer!
 

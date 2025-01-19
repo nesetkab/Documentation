@@ -2,12 +2,12 @@
 
 This guide provides a step-by-step process to set up ADB (Android Debug Bridge) and use it effectively in a FIRST Tech Challenge (FTC) scenario.
 
----
+
 
 ## 1. Introduction to ADB
 ADB is a versatile command-line tool that allows developers to communicate with and control Android devices. It is particularly useful for debugging and deploying code on the FTC Driver Station or Robot Controller.
 
----
+
 
 ## 2. Installing ADB
 

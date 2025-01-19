@@ -1,12 +1,12 @@
 # Prerequisites for Pedro Pathing
 
----
+
 
 ## Robot and Drive Type
 
 Pedro Pathing is designed to work with **omnidirectional drives**, such as **mecanum drive**. Currently, there is no support for swerve drives. 
 
----
+
 ## Project Setup
 
 #### 1. If you want to use the quickstart, clone it: ```https://github.com/Pedro-Pathing/Quickstart.git```. Then move on to [Constants Setup.](#constants-setup)
@@ -27,7 +27,7 @@ Pedro Pathing is designed to work with **omnidirectional drives**, such as **mec
 
 #### 5. Lastly, you will have to create a `PedroPathing` package. Within this you will store the tuners and your two constants files. Download the tuners from the [Pedro Pathing Quickstart](https://github.com/Pedro-Pathing/Quickstart). Place the tuners into your package and then continue to learn how to setup your `constants` files.
 
----
+
 
 ## Constants Setup
 

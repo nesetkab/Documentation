@@ -3,7 +3,7 @@
 ## Prerequisites
 * Three odometry wheels connected to motor encoder ports on a hub.
 
----
+
 ## Default Values
 These are the default values of the ThreeWheelConstants. You can copy and paste this into your `static{}` block within `LConstants`:
 ```java
@@ -21,7 +21,7 @@ ThreeWheelConstants.rightEncoderDirection = Encoder.REVERSE;
 ThreeWheelConstants.strafeEncoderDirection = Encoder.FORWARD;
 ```
 
----
+
 
 ## Steps
 ### 1. Odometry Wheel Setup
@@ -90,6 +90,6 @@ We need to adjust multipliers that convert encoder ticks into real-world measure
 4. (Optional) Run multiple tests and average the multipliers for better accuracy.
 5. Input this value in `LConstants` as `ThreeWheelConstants.turnTicksToInches = [multiplier]`, where `[multiplier]` is the value you obtained from the tuner.
 
----
+
 
 ## Congratulations on successfully tuning your localizer!

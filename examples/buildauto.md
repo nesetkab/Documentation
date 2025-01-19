@@ -2,7 +2,6 @@
 
 This guide provides a comprehensive overview of how to create an autonomous routine using PedroPathing. It includes detailed explanations for poses, paths, and logic flow, ensuring clarity and usability.
 
----
 
 ### Step One: Imports #
 
@@ -26,7 +25,7 @@ import pedroPathing.constants.FConstants;
 import pedroPathing.constants.LConstants;
 ```
 
----
+
 
 ### Step Two: Pose Initialization #
 Poses define the robot's position (`x`, `y` and `heading`) on the field. Below are the key poses for this autonomous:
@@ -43,7 +42,7 @@ private final Pose parkPose = new Pose(60, 98, Math.toRadians(90));    // Parkin
 private final Pose parkControlPose = new Pose(60, 98, Math.toRadians(90)); // Control point for curved path
 ```
 
----
+
 
 ### Step Three: Path Initialization #
 The buildPaths method creates all the paths and path chains required for the autonomous routine. Each path connects two or more poses and includes heading interpolation to control the robot's orientation during movement.
@@ -106,7 +105,7 @@ public void buildPaths() {
 
 This ensures all paths are ready before the autonomous routine begins, since we call it in init.
 
----
+
 
 ### Step Four: Managing Path States #
 
@@ -186,7 +185,7 @@ public void setPathState(int pState) {
 
 Each `if` statement ensures the robot reaches a specific position (`x`, `y`) before proceeding to the next state. This prevents premature transitions and ensures precise execution.
 
----
+
 
 ### Step Five: Initialization and Loop Methods #
 The initialization phase sets up paths and timers, while the loop ensures continuous updates during autonomous.  

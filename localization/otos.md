@@ -4,7 +4,7 @@
 * Ensure the **OTOS sensor** is connected to an **I2C port** on your control hub.
 * Verify the protective film on the sensor is **removed** before use.
 
----
+
 
 ## Default Values
 These are the default values of the OTOSConstants. You can copy and paste this into your `static{}` block within `LConstants`:
@@ -18,7 +18,7 @@ OTOSConstants.linearScalar = 1.0;
 OTOSConstants.angularScalar = 1.0;
 ```
 
----
+
 
 ## Steps
 
@@ -40,7 +40,7 @@ OTOSConstants.angularScalar = 1.0;
 5. If you want to change the units for your linear and angular measurements, you can do so by changing `OTOSConstants.linearUnit` and `OTOSConstants.angleUnit` in the `static{}` block of `LConstants`.
     - The default linear unit is `DistanceUnit.INCH` and the default angle unit is `AngleUnit.RADIANS`.
 
----
+
 
 ### 2. Localizer Tuning
 
@@ -67,7 +67,7 @@ Since OTOS has only one linear scalar, you can run **either Forward or Lateral L
     - By replacing  in 
 5. (Optional): Run multiple tests and average the scalars for better accuracy.
 
----
+
 
 #### b) Angular Scalar (Turn Tuning)
 
@@ -82,7 +82,7 @@ Since OTOS has only one linear scalar, you can run **either Forward or Lateral L
     - Ensure you **replace** the value, not add to or multiply the existing one.
 5. (Optional): Run multiple tests to average the scalars for improved accuracy.
 
----
+
 
 ## Testing Your Localizer
 
@@ -98,7 +98,7 @@ After completing the tuning steps, you can test your localizer's accuracy.
 
 5. Observe the movements, moving the robot forward should make `x` increase and strafing left should make `y` increase.
 
----
+
 
 ## Congratulations!
 

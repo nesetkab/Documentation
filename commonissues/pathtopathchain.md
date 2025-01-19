@@ -2,7 +2,7 @@
 ## Overview ##
 In Pedro Pathing, a PathChain allows multiple paths to be chained together, allowing for multiple movements to happen in a sequence. PathChain are able to have "holdEnd," which allows them to hold their end position, until the follower follows another path. This allows for the robot to continually correct while, for example, running an action sequence to score your preload. This guide walks you through converting individual paths into a PathChain while incorporating interpolation methods and timeout constraints.
 
----
+
 
 ## What You Need to Know
 - Path: Represents a single movement, which can be a curve (BezierCurve) or a straight line (BezierLine).
@@ -10,7 +10,7 @@ In Pedro Pathing, a PathChain allows multiple paths to be chained together, allo
 - Interpolations: Define how the robot adjusts heading (rotation) throughout a path.
 - Timeout Constraints: Limit the time the robot spends attempting to complete a path.
 
----
+
 
 ## Example Breakdown
 ### Step 1: Building Individual Paths
