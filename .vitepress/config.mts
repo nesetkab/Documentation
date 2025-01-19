@@ -8,7 +8,7 @@ base: '/Documentation/',
 nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
-            {text: "JavaDoc", link:"/reference/index"},
+            {text: "JavaDoc", link:"https://baronclaps.github.io/Documentation/reference/index.html"},
             {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
         ],
     sidebar: [
