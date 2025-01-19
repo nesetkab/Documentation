@@ -7,8 +7,8 @@ hero:
   text: "FTC Path Follower"
   tagline: "Maximize control over your robot!"
   image:
-        dark: /public/images/pedropathinglogo-darkmode.png
-        light: /public/images/pedropathinglogo-lightmode.png
+        dark: /images/pedropathinglogo-darkmode.png
+        light: /images/pedropathinglogo-lightmode.png
         alt: Pedro Logo
   actions:
     - theme: brand
