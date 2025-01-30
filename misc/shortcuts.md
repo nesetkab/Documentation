@@ -7,7 +7,7 @@
 
 ## Localization
 `!docs pick` -> https://pedropathing.com/localization/pick.html   
-`!docs setup` -> https://pedropathing.com/localization/setup.html
+`!docs setup` -> https://pedropathing.com/localization/setup.html  
 `!docs threewheel` -> https://pedropathing.com/localization/threewheel.html  
 `!docs threewheelimu` -> https://pedropathing.com/localization/threeWheelImu.html    
 `!docs twowheel` -> https://pedropathing.com/localization/twoWheel.html  
