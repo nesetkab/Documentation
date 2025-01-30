@@ -8,21 +8,19 @@
 ## Localization
 `!docs pick` -> https://pedropathing.com/localization/pick.html   
 `!docs setup` -> https://pedropathing.com/localization/setup.html  
-`!docs threewheel` -> https://pedropathing.com/localization/threewheel.html  
+`!docs threewheel` -> https://pedropathing.com/localization/threeWheel.html  
 `!docs threewheelimu` -> https://pedropathing.com/localization/threeWheelImu.html    
 `!docs twowheel` -> https://pedropathing.com/localization/twoWheel.html  
 `!docs driveencoder` -> https://pedropathing.com/localization/driveEncoder.html  
 `!docs otos` -> https://pedropathing.com/localization/otos.html  
-`!docs pinpoint` -> https://pedropathing.com/localization/pinpoint.html  
-
-
+`!docs pinpoint` -> https://pedropathing.com/localization/pinpoint.html
 
 ## Automatic Tuners
 `!docs automaticprequisites` -> https://pedropathing.com/automatic/prerequisites.html  
-`!docs forwardvelocity` -> https://pedropathing.com/automatic/forwardVelocity.html  
-`!docs lateralvelocity` -> https://pedropathing.com/automatic/lateralVelocity.html  
-`!docs forwardzeropower` -> https://pedropathing.com/automatic/forwardZeroPower.html  
-`!docs lateralzeropower` -> https://pedropathing.com/automatic/lateralZeroPower.html  
+`!docs forwardvelocity` -> https://pedropathing.com/automatic/forwardvelocity.html  
+`!docs strafevelocity` -> https://pedropathing.com/automatic/strafevelocity.html  
+`!docs forwardzeropower` -> https://pedropathing.com/automatic/forwardzeroPower.html  
+`!docs lateralzeropower` -> https://pedropathing.com/automatic/lateralzeroPower.html  
 
 ## PIDFS
 `!docs pidfintro` -> https://pedropathing.com/pidf/intro.html  
@@ -34,16 +32,16 @@
 
 ## Examples
 `!docs auto` -> https://pedropathing.com/examples/auto.html  
-`!docs buildauto` -> https://pedropathing.com/examples/buildAuto.html  
+`!docs buildauto` -> https://pedropathing.com/examples/buildauto.html  
 `!docs teleop` -> https://pedropathing.com/examples/teleop.html
 
 ## Common Issues
-`!docs pathtopathchain` -> https://pedropathing.com/commonissues/pathToPathChain.html  
+`!docs pathtopathchain` -> https://pedropathing.com/commonissues/pathtopathchain.html  
 `!docs pathovershoot` -> https://pedropathing.com/commonissues/pathovershoot.html
 
 ## Misc
 `!docs constants` -> https://pedropathing.com/misc/constants.html  
-`!docs localchanges` -> https://pedropathing.com/misc/localChanges.html
+`!docs localchanges` -> https://pedropathing.com/misc/localchanges.html
 
 ## General FTC
 `!docs adb` -> https://pedropathing.com/general/adb.html  
