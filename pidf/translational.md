@@ -38,7 +38,7 @@ Test by pushing the robot with varying force and from different directions. Obse
 ## Input Tuned Values
 
 1. Open the `FConstants` class and navigate to the `static{}` block.
-2. Then, on a new line, add `FollowerConstants.translationalPIDFCoefficients = new CustomPIDFCoefficients(P,I,D,F);`, with `P`, `I`, `D`, and `F` being the values you tuned for and inputted into FTC Dashboard.
+2. Then, on a new line, add `FollowerConstants.translationalPIDFCoefficients.setCoefficients(P,I,D,F);`, with `P`, `I`, `D`, and `F` being the values you tuned for and inputted into FTC Dashboard.
 
 Note: In Step 2, you only need to make a new line if you are not using the quickstart, otherwise, you can just modify the line that already does this.  
 

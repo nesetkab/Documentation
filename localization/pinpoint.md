@@ -44,8 +44,8 @@ Navigate to the file `LConstants` and into the `static{}` block and configure th
    - If you are using a custom encoder resolution, set `PinpointConstants.useCustomEncoderResolution` to `true` and input the custom resolution in the `PinpointConstants.customEncoderResolution` variable.
 4. Encoder Directions:
    - Ensure the encoder directions are correctly set. You can test this by running the `LocalizationTest` TeleOp Opmode.
-     - If the `x` value ticks down when the robot moves forward, reverse the direction by changing the `GoBildaPinpointDriver.EncoderDirection` values for `PinpointConstants.forwardEncoderDirection`
-     - If the `y` value ticks down when the robot moves left, reverse the direction by changing the `GoBildaPinpointDriver.EncoderDirection` values for`PinpointConstans.strafeEncoderDirection`.
+     - If the `x` value ticks down when the robot moves forward, invert the direction by changing the `GoBildaPinpointDriver.EncoderDirection` for the forwardEncoder.
+     - If the `y` value ticks down when the robot moves left, invert the direction by changing the `GoBildaPinpointDriver.EncoderDirection` for the strafeEncoder.
    - The default values are `GoBildaPinpointDriver.EncoderDirection.REVERSED` for `forwardEncoderDirection` and `GoBildaPinpointDriver.EncoderDirection.FORWARD` for `strafeEncoderDirection`.
 5. Yaw Scalar:
    - If you want to use a yaw scalar, set `PinpointConstants.useYawScalar` to `true` and input the scalar value in the `PinpointConstants.yawScalar` variable.

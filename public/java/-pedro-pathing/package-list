@@ -13,9 +13,11 @@ $dokka.location:com.pedropathing.follower/Follower/Follower/#com.qualcomm.robotc
 $dokka.location:com.pedropathing.follower/Follower/atParametricEnd/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/at-parametric-end.html
 $dokka.location:com.pedropathing.follower/Follower/breakFollowing/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/break-following.html
 $dokka.location:com.pedropathing.follower/Follower/calculateAveragedVelocityAndAcceleration/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/calculate-averaged-velocity-and-acceleration.html
+$dokka.location:com.pedropathing.follower/Follower/drawOnDashBoard/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/draw-on-dash-board.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.Path#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.Path/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
+$dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain#double#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/followPath/#com.pedropathing.pathgen.PathChain/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/follow-path.html
 $dokka.location:com.pedropathing.follower/Follower/getAcceleration/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/get-acceleration.html
 $dokka.location:com.pedropathing.follower/Follower/getCentripetalForceCorrection/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/get-centripetal-force-correction.html
@@ -44,8 +46,11 @@ $dokka.location:com.pedropathing.follower/Follower/holdPoint/#com.pedropathing.p
 $dokka.location:com.pedropathing.follower/Follower/initialize/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/initialize.html
 $dokka.location:com.pedropathing.follower/Follower/initialize/#com.pedropathing.localization.Localizer/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/initialize.html
 $dokka.location:com.pedropathing.follower/Follower/isBusy/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/is-busy.html
+$dokka.location:com.pedropathing.follower/Follower/isPinpointCooked/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/is-pinpoint-cooked.html
+$dokka.location:com.pedropathing.follower/Follower/isRobotStuck/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/is-robot-stuck.html
 $dokka.location:com.pedropathing.follower/Follower/pathBuilder/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/path-builder.html
 $dokka.location:com.pedropathing.follower/Follower/resetOffset/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/reset-offset.html
+$dokka.location:com.pedropathing.follower/Follower/resumePathFollowing/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/resume-path-following.html
 $dokka.location:com.pedropathing.follower/Follower/setCurrentPoseWithOffset/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/set-current-pose-with-offset.html
 $dokka.location:com.pedropathing.follower/Follower/setHeadingOffset/#double/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/set-heading-offset.html
 $dokka.location:com.pedropathing.follower/Follower/setMaxPower/#double/PointingToDeclaration/-pedro-pathing/com.pedropathing.follower/-follower/set-max-power.html
@@ -120,6 +125,7 @@ $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/getTo
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/getTurningMultiplier/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/get-turning-multiplier.html
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/getVelocity/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/get-velocity.html
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/getVelocityVector/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/get-velocity-vector.html
+$dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/isPinpointCooked/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/is-pinpoint-cooked.html
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/resetIMU/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/reset-i-m-u.html
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/setPose/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/set-pose.html
 $dokka.location:com.pedropathing.localization.localizers/PinpointLocalizer/setStartPose/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization.localizers/-pinpoint-localizer/set-start-pose.html
@@ -254,7 +260,9 @@ $dokka.location:com.pedropathing.localization/Localizer/getTotalHeading/#/Pointi
 $dokka.location:com.pedropathing.localization/Localizer/getTurningMultiplier/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/get-turning-multiplier.html
 $dokka.location:com.pedropathing.localization/Localizer/getVelocity/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/get-velocity.html
 $dokka.location:com.pedropathing.localization/Localizer/getVelocityVector/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/get-velocity-vector.html
+$dokka.location:com.pedropathing.localization/Localizer/isPinpointCooked/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/is-pinpoint-cooked.html
 $dokka.location:com.pedropathing.localization/Localizer/resetIMU/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/reset-i-m-u.html
+$dokka.location:com.pedropathing.localization/Localizer/setPinpointIsCooked/#boolean/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/set-pinpoint-is-cooked.html
 $dokka.location:com.pedropathing.localization/Localizer/setPose/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/set-pose.html
 $dokka.location:com.pedropathing.localization/Localizer/setStartPose/#com.pedropathing.localization.Pose/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/set-start-pose.html
 $dokka.location:com.pedropathing.localization/Localizer/update/#/PointingToDeclaration/-pedro-pathing/com.pedropathing.localization/-localizer/update.html

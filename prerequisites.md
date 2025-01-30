@@ -25,7 +25,7 @@ Pedro Pathing is designed to work with **omnidirectional drives**, such as **mec
 
 ![Latest Pedro Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fpedro-pathing.github.io%2Fmaven.pedropathing.com%2Fcom%2Fpedropathing%2Fpedro%2Fmaven-metadata.xml&query=%2Fmetadata%2Fversioning%2Flatest&style=for-the-badge&label=Build&labelColor=111111&color=7b39ab)
 
-#### 5. Lastly, you will have to create a `PedroPathing` package. Within this you will store the tuners and your two constants files. Download the tuners from the [Pedro Pathing Quickstart](https://github.com/Pedro-Pathing/Quickstart). Place the tuners into your package and then continue to learn how to setup your `constants` files.
+#### 5. Lastly, you will have to create a `pedroPathing` package. Within this you will store the tuners and your two constants files. Download the tuners from the [Pedro Pathing Quickstart](https://github.com/Pedro-Pathing/Quickstart). Place the tuners into your package and then continue to learn how to setup your `constants` files.
 
 
 
