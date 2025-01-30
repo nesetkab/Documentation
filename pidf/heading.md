@@ -4,7 +4,7 @@
 
 The heading PID ensures the robot maintains its rotational alignment, correcting deviations from its desired heading.
 
----
+
 
 ## Setup
 
@@ -13,7 +13,7 @@ The heading PID ensures the robot maintains its rotational alignment, correcting
 3. Run the `StraightBackAndForth` OpMode.
 4. Ensure the timer for autonomous OpModes is **disabled**.
 
----
+
 
 ## Tuning Process
 
@@ -22,13 +22,13 @@ The heading PID ensures the robot maintains its rotational alignment, correcting
 2. Adjust the PID constants (`headingPIDF`) in the **FollowerConstants** tab of FTC Dashboard.
     - **Goal**: Reduce oscillations while maintaining precise alignment.
 
----
+
 
 ## Testing
 
 Repeat the tuning process with varying rotation angles and directions to ensure consistent performance.
 
----
+
 
 ## Input Tuned Values
 
@@ -37,7 +37,7 @@ Repeat the tuning process with varying rotation angles and directions to ensure 
 
 Note: In Step 2, you only need to make a new line if you are not using the quickstart, otherwise, you can just modify the line that already does this.
 
----
+
 
 ## Secondary PIDF Tuning
 
@@ -45,7 +45,7 @@ If you are going to use the secondary PIDF for heading error, you can tune the s
 
 Input them into the `FollowerConstants.secondaryHeadingPIDFCoefficients` in the `FConstants` class the same way that the primary PIDF coefficients are inputted.
 
----
+
 
 #### Congratulations, you’ve completed the Heading PIDF tuning!
 Now, move onto the next section to tune your Drive PIDF Tuning.

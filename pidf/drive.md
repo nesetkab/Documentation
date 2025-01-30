@@ -4,7 +4,7 @@
 
 The drive PID manages acceleration and braking along a path, ensuring smooth motion and minimizing overshoot.
 
----
+
 
 ## Setup
 
@@ -13,7 +13,7 @@ The drive PID manages acceleration and braking along a path, ensuring smooth mot
 3. Run the `StraightBackAndForth` OpMode.
 4. Ensure the timer for autonomous OpModes is **disabled**.
 
----
+
 
 ## Zero Power Acceleration Multiplier
 
@@ -26,7 +26,7 @@ This value determines deceleration speed:
 - Higher values: Faster braking but more oscillations.
 - Lower values: Slower braking with fewer oscillations.
 
----
+
 
 ## Tuning Process
 
@@ -38,13 +38,13 @@ This value determines deceleration speed:
 2. Test the response during braking:
     - Reduce oscillations for smoother stops.
 
----
+
 
 ## Testing
 
 Repeat the tuning process with varying rotation angles and directions to ensure consistent performance.
 
----
+
 
 ## Input Tuned Values
 
@@ -53,7 +53,7 @@ Repeat the tuning process with varying rotation angles and directions to ensure 
 
 Note: In Step 2, you only need to make a new line if you are not using the quickstart, otherwise, you can just modify the line that already does this.
 
----
+
 
 ## Secondary PIDF Tuning
 
@@ -61,7 +61,7 @@ If you are going to use the secondary PIDF for drive error, you can tune the sec
 
 Input them into the `FollowerConstants.secondaryDrivePIDFCoefficients` in the `FConstants` class the same way that the primary PIDF coefficients are inputted.
 
----
+
 
 ## Kalman Filter Adjustments (Optional)
 
@@ -72,7 +72,7 @@ The drive PID uses a Kalman filter to smooth error responses:
 
 Feel free to experiment with these settings for optimal performance.
 
----
+
 
 #### Congratulations, you’ve completed the drive PIDF tuning!
 Now, move onto the next section to tune your Centripetal Scaling.

@@ -4,7 +4,7 @@
 
 Pedro Pathing relies on **Proportional-Integral-Derivative (PID)** controllers to ensure precise path-following performance. This guide will walk you through tuning the various PID controllers for translational, heading, drive, and centripetal corrections.
 
----
+
 
 ## One vs. Two PID Systems
 
@@ -26,7 +26,7 @@ In Pedro Pathing, you can choose between using one or two PID controllers for ea
             - **Main PID**: Moves the error into the secondary PID’s range without causing overshoot.
             - **Secondary PID**: Corrects small errors quickly and minimizes oscillations.
 
----
+
 
 ## Tuning Steps Overview
 

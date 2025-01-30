@@ -4,7 +4,7 @@
 
 The centripetal force correction corrects deviations from curved paths, ensuring the robot maintains an optimal trajectory.
 
----
+
 
 ## Setup
 
@@ -13,7 +13,7 @@ The centripetal force correction corrects deviations from curved paths, ensuring
 3. Run the `CurvedBackAndForth` OpMode.
 4. Ensure the timer for autonomous OpModes is **disabled**.
 
----
+
 
 ## Tuning Process
 
@@ -23,7 +23,7 @@ The centripetal force correction corrects deviations from curved paths, ensuring
 
 2. Adjust the value of `centripetalScaling` within the `FollowerConstants` section in FTC Dashboard.
 
----
+
 
 ## Testing
 
