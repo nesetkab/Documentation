@@ -18,7 +18,7 @@ The drive PID manages acceleration and braking along a path, ensuring smooth mot
 ## Zero Power Acceleration Multiplier
 
 1. Open the `FConstants` class and navigate to the `static{}` block.
-2. Set the `zeroPowerAccelerationMultiplier` on a new line by adding `FollowerConstants.zeroPowerAccelerationMultiplier = [VALUE]`, where `[VALUE]` is the value you want to set it to.\
+2. Set the `zeroPowerAccelerationMultiplier` on a new line by adding `FollowerConstants.zeroPowerAccelerationMultiplier = [VALUE]`, where `[VALUE]` is the value you want to set it to.
 
 Note: In Step 2, you only need to make a new line if you are not using the quickstart, otherwise, you can just modify the line that already does this.
 
