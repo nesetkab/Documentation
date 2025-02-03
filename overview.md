@@ -30,11 +30,13 @@ The sidebar provides quick access to each section, ensuring easy navigation thro
 
 ---
 
-Our code is stored in our [library](https://github.com/Pedro-Pathing/PedroPathing).
+Our code is stored in our [Library](https://github.com/Pedro-Pathing/PedroPathing).
 
-This is the [Official Pedro Pathing Quickstart](https://github.com/Pedro-Pathing/Quickstart).
+This is the [Quickstart](https://github.com/Pedro-Pathing/Quickstart).
 
-There is a visualizer for [Pedro Path Generation](https://pedro-path-generator.vercel.app/).
+This is the [Discord](https://discord.gg/2GfC4qBP5s).
+
+There is a visualizer for [Pedro Path Generation](https://visualizer.pedropathing.com).
 
 ---
 
