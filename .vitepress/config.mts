@@ -15,7 +15,8 @@ nav: [
             {text: "Home", link: "/"},
             {text: "Setup", link: "/prerequisites"},
             {text: "JavaDoc", link:"https://pedropathing.com/java/index.html"},
-            {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"} 
+            {text: "Quickstart", link: "https://github.com/Pedro-Pathing/Quickstart/"},
+            {text: "Discord", link: "https://discord.gg/2GfC4qBP5s"}
         ],
     sidebar: [
       {
