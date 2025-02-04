@@ -6,7 +6,9 @@ This is done by calling `Constants.setConstants(FConstants.class, LConstants.cla
 
 This will update the constants in the `FollowerConstants` and the specific localizer's constants with the values you have set in the `FConstants` and `LConstants` classes.
 
+::: danger
 It is **necessary** to call `Constants.setConstants(FConstants.class, LConstants.class);` before initializing your follower.
+:::
 
 Here is an example of how you would set the constants in your `OpMode`, taken from the [Autonomous Breakdown](../examples/buildauto.md) page:
 
