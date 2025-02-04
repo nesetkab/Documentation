@@ -79,7 +79,7 @@ nav: [
         text: 'Miscellaneous',
         items: [
           { text: 'Local Changes to the Library', link: '/misc/localchanges' },
-          { text: 'Constants Class Overview', link: '/misc/constantsuser' },
+          { text: 'Constants Class Overview', link: '/misc/constants' },
           { text: 'Discord Shortcuts', link: '/misc/shortcuts' },
         ],
       },
