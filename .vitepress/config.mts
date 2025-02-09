@@ -81,6 +81,7 @@ nav: [
         items: [
           { text: 'Local Changes to the Library', link: '/misc/localchanges' },
           { text: 'Constants Class Overview', link: '/misc/constants' },
+          { text: 'Callbacks', link: '/misc/callbacks' },
           { text: 'Discord Shortcuts', link: '/misc/shortcuts' },
         ],
       },
@@ -89,6 +90,7 @@ nav: [
         items: [
           { text: 'ADB Tutorial', link: '/general/adb' },
           { text: 'XML Configuration Tutorial', link: '/general/xml' },
+          { text: 'Pinpoint NAN Error', link: '/general/pinpointNAN' },
         ],
       },
     ],

@@ -20,7 +20,7 @@
 
         var target = getQueryVariable("target");
         var selectedUrl = "";
-        switch(target) {
+        switch(target.toLowerCase()) {
             case "": selectedUrl = "/";break;
             case "threewheel": selectedUrl="/localization/threeWheel";break;
             case "threewheelimu": selectedUrl="/localization/threeWheelImu";break;
@@ -53,7 +53,9 @@
             case "overview": selectedUrl="/overview";break;
             case "migrating": selectedUrl="/migrating";break;
             case "prerequisites": selectedUrl="/prerequisites";break;
+            case "callbacks": selectedUrl="/misc/callbacks";break;
             case "shortcuts": selectedUrl="/misc/shortcuts";break;
+            case "pinpointnan": selectedUrl="/general/pinpointNAN";break;
         }
         window.location.replace(selectedUrl);
     </script>
