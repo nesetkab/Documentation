@@ -42,7 +42,7 @@
 ## Misc
 `!docs constants` -> https://pedropathing.com/misc/constants.html  
 `!docs localchanges` -> https://pedropathing.com/misc/localchanges.html
-`!docs callbacks` -> https://pedropathing.com/misc/callbacks.html
+`!docs callbacks` -> https://pedropathing.com/misc/callbacks.html  
 `!docs shortcuts` -> https://pedropathing.com/misc/shortcuts.html
 
 ## General FTC
