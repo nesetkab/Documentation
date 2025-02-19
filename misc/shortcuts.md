@@ -40,10 +40,10 @@
 `!docs pathovershoot` -> https://pedropathing.com/commonissues/pathovershoot.html
 
 ## Misc
-`!docs constants` -> https://pedropathing.com/misc/constants.html  
-`!docs localchanges` -> https://pedropathing.com/misc/localchanges.html
-`!docs callbacks` -> https://pedropathing.com/misc/callbacks.html
-`!docs shortcuts` -> https://pedropathing.com/misc/shortcuts.html
+`!docs constants` -> https://pedropathing.com/misc/constants.html        
+`!docs localchanges` -> https://pedropathing.com/misc/localchanges.html   
+`!docs callbacks` -> https://pedropathing.com/misc/callbacks.html   
+`!docs shortcuts` -> https://pedropathing.com/misc/shortcuts.html 
 
 ## General FTC
 `!docs adb` -> https://pedropathing.com/general/adb.html  
