@@ -94,7 +94,8 @@ nav: [
           {
             text: 'Github',
             items: [
-              {text: 'GitHub Teams', link: '/general/GitHub Teams'},
+              {text: 'GitHub Organizations', link: '/general/GitHub/GitHub_Organizations'},
+              {text: 'GitHub Teams', link: '/general/GitHub/GitHub_Teams'},
             ],
           },
         ],
