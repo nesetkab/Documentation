@@ -89,8 +89,8 @@ nav: [
         text: 'General FTC',
         items: [
           { text: 'ADB Tutorial', link: '/general/adb' },
-          { text: 'XML Configuration Tutorial', link: '/general/xml' },
           { text: 'Pinpoint NAN Error', link: '/general/pinpointNAN' },
+          { text: 'XML Configuration Tutorial', link: '/general/xml' },
         ],
       },
     ],
