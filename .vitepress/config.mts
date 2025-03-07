@@ -91,6 +91,12 @@ nav: [
           { text: 'ADB Tutorial', link: '/general/adb' },
           { text: 'Pinpoint NAN Error', link: '/general/pinpointNAN' },
           { text: 'XML Configuration Tutorial', link: '/general/xml' },
+          {
+            text: 'Github',
+            items: [
+              {text: 'GitHub Teams', link: '/general/github/teams'},
+            ],
+          },
         ],
       },
     ],
